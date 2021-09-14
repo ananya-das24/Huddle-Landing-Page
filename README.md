@@ -3,7 +3,7 @@
 
 Desktop version
 
-![desktop version](screenshot/huddle.png)
+![desktop version](screenshot/huddle_.png)
 
 ### Links:
 
